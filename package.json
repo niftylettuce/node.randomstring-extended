@@ -1,12 +1,12 @@
 {
-    "name": "randomstring",
-    "version": "1.0.1",
-    "author": "Elias Klughammer <elias.klughammer@me.com> (http://www.elias.kg)",
+    "name": "randomstring-extended",
+    "version": "1.0.0",
+    "author": "Jose Luis Rivas <joseluis@eserre.com> (http://ghostbar.ath.cx/)",
     "description": "A module for generating random strings",
-    "homepage": "https://github.com/eliaskg/node-randomstring",
+    "homepage": "https://github.com/eserre/node.randomstring-extended",
     "repository": {
         "type": "git",
-        "url": "git://github.com/eliaskg/node-randomstring.git"
+        "url": "git://github.com/eserre/node.randomstring-extended.git"
     },
     "main": "./index",
     "engines": {

@@ -1,10 +1,12 @@
-# node-randomstring
+# node.randomstring-extended
+
+This is based on [node-randomstring](http://github.com/eliaskg/node-randomstring). It added more chars including spaces.
 
 ## Installation
-    
-To install randomstring, use [npm](http://github.com/isaacs/npm):
 
-    $ npm install randomstring
+To install randomstring-extended, use [npm](http://github.com/isaacs/npm):
+
+    $ npm install randomstring-extended
 
 ## Usage
 
@@ -20,4 +22,4 @@ randomstring.generate(7);
 
 ## LICENSE
 
-node-randomstring is licensed under the MIT license.
+node-randomstring-extended is licensed under the MIT license.
