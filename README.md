@@ -11,7 +11,7 @@ To install randomstring-extended, use [npm](http://github.com/isaacs/npm):
 ## Usage
 
 ```javascript
-var randomstring = require("randomstring");
+var randomstring = require("randomstring-extended");
 
 randomstring.generate();
 // >> "XwPp9xazJ0ku5CZnlmgAx2Dld8SHkAeT"
