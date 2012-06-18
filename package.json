@@ -3,10 +3,10 @@
     "version": "1.0.0",
     "author": "Jose Luis Rivas <joseluis@eserre.com> (http://ghostbar.ath.cx/)",
     "description": "A module for generating random strings",
-    "homepage": "https://github.com/eserre/node.randomstring-extended",
+    "homepage": "https://github.com/niftylettuce/node.randomstring-extended",
     "repository": {
         "type": "git",
-        "url": "git://github.com/eserre/node.randomstring-extended.git"
+        "url": "git://github.com/niftylettuce/node.randomstring-extended.git"
     },
     "main": "./index",
     "engines": {
